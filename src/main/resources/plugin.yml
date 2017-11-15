@@ -1,0 +1,6 @@
+name: Horses
+main: edu.vt.alic.horses.Horses
+version: 1.0
+author: Ali
+commands:
+  h:

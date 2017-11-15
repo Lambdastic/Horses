@@ -1,0 +1,8 @@
+Save Interval: 1
+db:
+  enabled: false
+  host: 127.0.0.1
+  port: 3306
+  database: horses
+  username: root
+  password: 881056Ali!
